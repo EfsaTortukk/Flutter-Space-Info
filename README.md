@@ -1,16 +1,42 @@
-# uzay
+# 🚀 Flutter Space Info
 
-A new Flutter project.
+Bu Flutter uygulaması, uzay hakkında sabit bilgileri modern ve sade bir kullanıcı arayüzüyle sunar. Temel widget’lar kullanılarak oluşturulmuştur ve uygulama, yeni başlayanlar için iyi bir tasarım alıştırmasıdır.
 
-## Getting Started
+## 🔭 Özellikler
 
-This project is a starting point for a Flutter application.
+- AppBar başlığı
+- `Card` widget'ları içinde uzay bilgileri
+- Temiz ve basit ekran düzeni
+- Responsive yapıya uygun tasarım
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Uygulamayı Çalıştırmak İçin
+
+1. Flutter yüklü olduğundan emin olun  
+2. Bu projeyi klonlayın:
+```
+git clone https://github.com/EfsaTortukk/Flutter-Space-Info.git
+cd Flutter-Space-Info
+```
+3. Gerekli bağımlılıkları yükleyin:
+```
+flutter pub get
+```
+4. Uygulamayı çalıştırın:
+```
+flutter run
+```
+
+## 📸 Ekran Görüntüsü
+
+> (Emülatör veya cihazdan alınan bir ekran görüntüsü buraya eklenebilir)
+
+## ✍️ Geliştirici
+
+👩‍💻 Efsa Tortuk  
+📫 [GitHub Profilim](https://github.com/EfsaTortukk)
